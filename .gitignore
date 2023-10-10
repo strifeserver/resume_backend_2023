@@ -1,0 +1,13 @@
+# Ignore Node.js modules and dependencies
+node_modules/
+
+# Ignore package lock file
+package-lock.json
+
+# Ignore compiled or build files (if applicable)
+# Example: Ignore the 'dist/' folder
+# dist/
+
+# Ignore any other folders or files that you want to exclude
+# Example: Ignore a 'build/' folder
+# build/
